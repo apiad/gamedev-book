@@ -47,7 +47,11 @@ to the list of contributors in `Book/FrontMatter/Contributors.tex`.
 
 This project is protected under a dual license.
 
-The book (everything inside the `Book` folder) is protected
+The sample code is licensed under an MIT software license, which is one of the most permissive licenses out there,
+except for public domain. This means you do can use the code in any way, even comercially, provided that you
+mention the authors somewhere in your product (something along the lines `Contains code taken from https://github.com/apiad/gamedev`).
+
+The book itself (everything inside the `Book` folder) is protected
 under a Creative Commons Attribution Non-Comercial Share-Alike 4.0 License. This means you can fork, modify,
 redistribute and use the book's content, partially or in full, electronically or printed, in any way except
 for comercial applications. By comercial we mean that you cannot sell the book, rent it, or in any other
@@ -56,6 +60,4 @@ the classes (but yoy cannot charge for the book itself). You can of course also 
 from the book to make your own games and make proffit from that. It is just proffiting directly from the
 distribution of the content that is forbidden. Also, you need to respect the authors (all contributors are authors).
 
-The sample code is licensed under an MIT software license, which is one of the most permissive licenses out there,
-except for public domain. This means you do can use the code in any way, even comercially, provided that you
-mention the authors somewhere in your product (something along the lines `Contains code taken from https://github.com/apiad/gamedev`).
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Game Development for Computer Sciences</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Alejandro Piad & David Darias</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
