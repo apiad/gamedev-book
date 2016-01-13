@@ -3,7 +3,7 @@
 This repository holds the LaTeX source files and related sample code for a book on game development topics.
 The objective of this book is to provide a unified view of game development, under the assumption that
 the reader has knowledge of computer science topics, such as algorithms, data structures, artificial intelligence,
-basic algebra, computer geometry, and other topics usually taught in CS majors. 
+basic algebra, computer geometry, and other topics usually taught in CS majors.
 
 The book is accompanied by a Unity project with lots of sample codes for many of the concepts and techniques
 presented. We choosed Unity because we believe that right now, all other things being equal, it is the tool
@@ -30,7 +30,7 @@ This is a non-exhaustive list of the content we pretend to include in the book:
 Every contribution is very much appreciated, anything from fixing a comma or mispelling to correcting
 source code or writing new demos, and even whole new chapters. We prefer to use the Github fork model
 for contributions, so please fork the project, do your changes, and submit a pull request. Issues
-are also appreciated, so if you discover an error, even if you cannot fix it, please submit the 
+are also appreciated, so if you discover an error, even if you cannot fix it, please submit the
 corresponding issue with as much info as possible of how to reproduce the error.
 
 While we appreciate and encourage all forms of contribution, if you intend to submit a large
@@ -41,11 +41,11 @@ to discuss first with you just to make sure we agree on the basic approach. This
 that your contribution helps as much as possible.
 
 If you make *any* contribution, as simple as it is, don't forget to add your name (aphabetically sorted)
-to the list of contributors in `Code/Contributors.tex`. 
+to the list of contributors in `Book/FrontMatter/Contributors.tex`.
 
 ## License
 
-This project is protected under a dual license. 
+This project is protected under a dual license.
 
 The book (everything inside the `Book` folder) is protected
 under a Creative Commons Attribution Non-Comercial Share-Alike 4.0 License. This means you can fork, modify,
