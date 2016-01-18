@@ -1,6 +1,6 @@
 # Game Development for Computer Scientists
 
-This repository holds the LaTeX source files and related sample code for a book on game development topics.
+This repository holds the Markdown source files and related sample code for a book on game development topics.
 The objective of this book is to provide a unified view of game development, under the assumption that
 the reader has knowledge of computer science topics, such as algorithms, data structures, artificial intelligence,
 basic algebra, computer geometry, and other topics usually taught in CS majors.
@@ -11,6 +11,8 @@ of choice for new game projects, specially in small teams with few resources. Th
 present all the topics as general as possible, highlighting the theoretical foundations and providing
 ideas on how to implement them yourself. Then we use the appropiate Unity concepts (when they exist) to
 illustrate the usage of such concepts in a realistic scenario.
+
+You can start reading the book [right here](Book/Main.md).
 
 ## Content
 
