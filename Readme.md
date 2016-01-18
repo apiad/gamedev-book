@@ -51,7 +51,7 @@ This project is protected under a dual license.
 
 The sample code is licensed under an MIT software license, which is one of the most permissive licenses out there,
 except for public domain. This means you do can use the code in any way, even comercially, provided that you
-mention the authors somewhere in your product (something along the lines `Contains code taken from https://github.com/apiad/gamedev`).
+mention the authors somewhere in your product (something along the lines `Contains code taken from https://github.com/apiad/gamedev-book`).
 
 The book itself (everything inside the `Book` folder) is protected
 under a Creative Commons Attribution Non-Comercial Share-Alike 4.0 License. This means you can fork, modify,
