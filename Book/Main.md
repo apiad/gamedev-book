@@ -6,3 +6,4 @@
 ## Table of Contents
 
 * [Prologue](FrontMatter/Prologue.md)
+* [Contributors](FrontMatter/Contributors.md)
