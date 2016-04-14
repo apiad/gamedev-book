@@ -1,6 +1,6 @@
 ## Prologue
 
-The idea for writting this book came out from a course in game development we've being teaching for a few years now, at the University of Havana. After a few iterations and modifications to the course syllabus, we (boldly) decided that it would be nice to have the basic content of the course in a single written material. In this prologue we explain why we think this book is worth reading, and, if we convince you, then how it is best read.
+The idea for writing this book came out from a course in game development we've being teaching for a few years now, at the University of Havana. After a few iterations and modifications to the course syllabus, we (boldly) decided that it would be nice to have the basic content of the course in a single written material. In this prologue we explain why we think this book is worth reading, and, if we convince you, then how it is best read.
 
 ### Why reading this book?
 
