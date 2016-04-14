@@ -25,3 +25,7 @@ This book is for people with interest in video games design and development from
 * Comfortable programming in C#, or similar languages (Java, C++, ...).
 
 For all of the above topics, we expect a minimum understanding, at the level that can be expected in a Computer Science undergrad student that has taken at least the introductory course on each topic. That said, there are some chapters in the book that do not require any prior knowledge, concerned with game mechanics, design, and publishing and marketing.
+
+### How to read the book?
+
+The book is designed to be read in order. Every chapter introduces concepts and ideas that are, many times, based on ideas and concepts from previous chapters. That said, there is some independency between content. For instance, the publishing and marketing chapters are mostly independent from the rest of the book. 
