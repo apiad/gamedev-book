@@ -7,4 +7,4 @@
 
 ### Main Matter
 * [Introduction to Game Development](Book/MainMatter/Introduction.md)
-   * [What is a Videogame?](Book/MainMatter/Introduction.md#what-is-a-videogame)
+   * [What is a Videogame?]()
