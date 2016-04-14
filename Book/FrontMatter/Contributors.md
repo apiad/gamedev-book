@@ -4,7 +4,7 @@ Every contribution is very much appreciated, anything from fixing a comma or mis
 
 While we appreciate and encourage all forms of contribution, if you intend to submit a large modification (such as writing a new demo, or a new section or chapter), we would appreciate if you submit an issue first. The reason for this is that we want to maintain as much as possible a unified language and style (both in the book and the sample source code), and we would like to discuss first with you just to make sure we agree on the basic approach. This is just to ensure that your contribution helps as much as possible.
 
-If you make *any* contribution, as simple as it is, don't forget to add your name (aphabetically sorted) to the following list of contributors:
+If you make *any* contribution, as simple as it is, don't forget to add your name (alphabetically sorted) to the following list of contributors:
 
 ### List of Contributors
 
