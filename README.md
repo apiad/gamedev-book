@@ -2,7 +2,7 @@
 
 This repository holds the Markdown source files and related sample code for a book on game development topics. The objective of this book is to provide a unified view of game development, under the assumption that the reader has knowledge of computer science topics, such as algorithms, data structures, artificial intelligence, basic algebra, computer geometry, and other topics usually taught in CS majors.
 
-The book is accompanied by a Unity project with lots of sample codes for many of the concepts and techniques presented. We choosed Unity because we believe that right now, all other things being equal, it is the tool of choice for new game projects, specially in small teams with few resources. Throughout the book we present all the topics as general as possible, highlighting the theoretical foundations and providing ideas on how to implement them yourself. Then we use the appropiate Unity concepts (when they exist) to illustrate the usage of such concepts in a realistic scenario.
+The book is accompanied by a Unity project with lots of sample codes for many of the concepts and techniques presented. We choose Unity because we believe that right now, all other things being equal, it is the tool of choice for new game projects, specially in small teams with few resources. Throughout the book we present all the topics as general as possible, highlighting the theoretical foundations and providing ideas on how to implement them yourself. Then we use the appropriate Unity concepts (when they exist) to illustrate the usage of such concepts in a realistic scenario.
 
 You can start reading the book [right here](Book/Main.md).
 
@@ -17,7 +17,7 @@ This is a non-exhaustive list of the content we pretend to include in the book:
 * Game AI
 * Procedural content generation
 * Optimization and performance tips
-* Publishing and marketting
+* Publishing and marketing
 
 ## Contributing
 
@@ -31,8 +31,8 @@ If you make *any* contribution, as simple as it is, don't forget to add your nam
 
 This project is protected under a dual license.
 
-The sample code is licensed under an MIT software license, which is one of the most permissive licenses out there, except for public domain. This means you do can use the code in any way, even comercially, provided that you mention the authors somewhere in your product (something along the lines `Contains code taken from https://github.com/apiad/gamedev-book`).
+The sample code is licensed under an MIT software license, which is one of the most permissive licenses out there, except for public domain. This means you do can use the code in any way, even commercially, provided that you mention the authors somewhere in your product (something along the lines `Contains code taken from https://github.com/apiad/gamedev-book`).
 
-The book itself (everything inside the `Book` folder) is protected under a Creative Commons Attribution Non-Comercial Share-Alike 4.0 License. This means you can fork, modify, redistribute and use the book's content, partially or in full, electronically or printed, in any way except for comercial applications. By comercial we mean that you cannot sell the book, rent it, or in any other form proffit from its content. You can, however, use the book in classes you teach, even if you charge for the classes (but yoy cannot charge for the book itself). You can of course also use the knowledge you gain from the book to make your own games and make proffit from that. It is just proffiting directly from the distribution of the content that is forbidden. Also, you need to respect the authors (all contributors are authors).
+The book itself (everything inside the `Book` folder) is protected under a Creative Commons Attribution Non-Commercial Share-Alike 4.0 License. This means you can fork, modify, redistribute and use the book's content, partially or in full, electronically or printed, in any way except for commercial applications. By commercial we mean that you cannot sell the book, rent it, or in any other form profit from its content. You can, however, use the book in classes you teach, even if you charge for the classes (but yoy cannot charge for the book itself). You can of course also use the knowledge you gain from the book to make your own games and make profit from that. It is just proffiting directly from the distribution of the content that is forbidden. Also, you need to respect the authors (all contributors are authors).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Game Development for Computer Sciences</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Alejandro Piad & David Darias</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
