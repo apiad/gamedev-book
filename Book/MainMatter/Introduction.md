@@ -36,18 +36,18 @@ However, there are a few key ideas that almost everybody agrees are very importa
 
 In this course, we'll try to provide as many hints as possible for the first four. The last one, well, it's all on you.
 
-So, the ultimate question is: do you need to be a creative genius to make awesome games? Well, the only answer We can give is: **maybe, nobody knows**.
+So, the ultimate question is: do you need to be a creative genius to make awesome games? Well, the only answer we can give is: **maybe, nobody knows**.
 
 _However_, you just asked for awesome games. But what about **good** games? Not games that are a hit, top grossing, E3 Game of the Year, or anything like that. Just games that are good enough to pay their own cost, and then make profit. The kind of games that you can make a living on. Well, the whole premise of this course is: **no, you don't**. You don't need to be a creative genius to make a living out of videogames anymore than you need to be a creative genius to make a living out of any other kind of software application. Sure, creativity **is** involved, perhaps more than in any other kind of software, but, if there is one idea you need to take from this course, is this one:
 
 >There is a fundamentally scientific path, not based on talent or luck, to develop and publish successful games.
 
-It is a bold statement, We know, and the whole course is designed to convince you of that, and to show you how it works. Maybe I'm right and maybe I'm not. Tag along and find out. In the end, even if I'm wrong, you'll learn a couple of techniques that, if not enough to make you rich, at least are very fun to program.
+It is a bold statement, we know, and the whole course is designed to convince you of that, and to show you how it works. Maybe I'm right and maybe I'm not. Tag along and find out. In the end, even if I'm wrong, you'll learn a couple of techniques that, if not enough to make you rich, at least are very fun to program.
 
 ### Skin versus Mechanics
 
-So, let's begin with the main content. The first two things We told you were fundamental for making a good game are **skin** and **mechanics**. In this section we'll explain exactly what do We mean by that.
-These two components are the very fabric of any game. The simplest explanation We can come up with is this: **skin** is the *look*, while **mechanics** are the *feel*.
+So, let's begin with the main content. The first two things we told you were fundamental for making a good game are **skin** and **mechanics**. In this section we'll explain exactly what do we mean by that.
+These two components are the very fabric of any game. The simplest explanation we can come up with is this: **skin** is the *look*, while **mechanics** are the *feel*.
 
 When you think about the **skin** of your game, you're thinking about the genre (in a narrative sense: dark fantasy, steam punk), the topic (the battle between the good and evil, rescuing the princess, saving the world), the history and ambient of the world; but also about the graphics, sound, textures, characters that make up that world. On the other hand, when you think about the **mechanics**, you're thinking about the gameplay, the rules, the controls, the algorithms that decide how your game behaves and responds to the player.
 
