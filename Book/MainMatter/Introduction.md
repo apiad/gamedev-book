@@ -6,6 +6,8 @@ In this chapter we will discuss a bit about the process of making a videogame, f
 
 ## What is a Videogame?
 
+> In this chapter we will find the oven.
+
 Videogames are software and, as such, have many of the usual characteristics of software products. Videogames evolve with technology and the best of them actually push the limits of technology a bit forward. The industry of dedicated video hardware is a living example. Every year, NVidia, Intel and AMD struggle for designing faster and faster GPUs to keep up the pace that videogames consumer all over the world require. This in turn benefits other areas that use GPU a lot (high-performance scientific computing and computer aided design), but who are by themselves not powerful enough to drive the industry.
 
 However, videogames have a fundamental difference with the rest of the software, and is this: Most software (if not all) is designed to provide some service, to aid in some task. In the general sense, every software has an objective purpose, a milestone that can be quantified, tested, quality assured and documented. Videogames are the only piece of software We know of whose sole purpose is subjective: **to entertain**. We know, you are thinking about *other entertainment software*, like media players. But even these have the objective purpose of playing music, rendering video, etc, unlike videogames. Surely, the purpose of Mario (the videogame) is **not** to rescue the princess, even though that is the purpose of Mario (the character). The purpose of every videogame, as stated by its makers in the value proposition section of the business model, is not to save the world, build a civilization, kill some zombies, is to entertain.
