@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Prologue](Book/FrontMatter/Prologue.md)
-* [Contributors](Book/FrontMatter/Contributors.md)
 * [Game Development Concepts](Book/MainMatter/Concepts/Main.md)
    * [What is a Videogame?](Book/MainMatter/Concepts/Definition.md)
    * [What Makes a Great Game?](Book/MainMatter/Concepts/GreatGames.md)
