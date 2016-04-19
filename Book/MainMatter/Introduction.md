@@ -1,4 +1,4 @@
-# Introduction to Game Development
+# Game Development Concepts
 
 This is the first chapter of the book, where the actual content begins. In this chapter, we'll discuss a few key ideas about what is game, what is game development, and what differentiates good games from bad games from great games. As usual in life, there is no golden hammer, or magical formulas, but we do hope some of these ideas will enlighten you a little bit.
 
