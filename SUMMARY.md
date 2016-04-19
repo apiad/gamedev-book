@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](Book/Intro.md)
+* [Introduction](README.md)
 * [Prologue](Book/FrontMatter/Prologue.md)
    * [Contributors](Book/FrontMatter/Contributors.md)
 * [Game Development Concepts](Book/MainMatter/Concepts/Main.md)
