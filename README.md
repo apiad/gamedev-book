@@ -22,7 +22,7 @@ This is a non-exhaustive list of the content we pretend to include in the book:
 
 ## Contributing
 
-Every contribution is very much appreciated, anything from fixing a comma or misspelling to correcting source code or writing new demos, and even whole new chapters. For details about to contribute, please refer to the [Contributors](Book/FrontMatter/Prologue.md#Contributors) section.
+Every contribution is very much appreciated, anything from fixing a comma or misspelling to correcting source code or writing new demos, and even whole new chapters. For details about to contribute, please refer to the [Contributors](Book/FrontMatter/Prologue.md) section.
 
 ## License
 
