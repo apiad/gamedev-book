@@ -33,18 +33,3 @@ The book is designed to be read in order. Every chapter introduces concepts and 
 The book's content roughly follows the syllabus of a course about game development we give at University of Havana every semester. However, the book goes much deeper in many cases, and presents more examples and code, that for reasons of time cannot be shown in the course. If you are interested in organizing a similar course, the book itself should serve as good enough script. 
 
 Throughout the book we present many ideas and concepts that are not of our own conception, but rather taken from the academic literature, and also blogs, tutorials, online documentation, etc. We have tried to provide the adequate links to every possible resource we think might help to extend our explanations.  At the end of every chapter you'll find the references for the cited material, and a list of suggested readings. We specially appreciate contributions and feedback regarding these materials and sources.
-
-# Contributors
-
-Every contribution is very much appreciated, anything from fixing a comma or misspelling to correcting source code or writing new demos, and even whole new chapters. We prefer to use the Github fork model for contributions, so please fork the project, do your changes, and submit a pull request. Issues are also appreciated, so if you discover an error, even if you cannot fix it, please submit the corresponding issue with as much info as possible of how to reproduce the error.
-
-While we appreciate and encourage all forms of contribution, if you intend to submit a large modification (such as writing a new demo, or a new section or chapter), we would appreciate if you submit an issue first. The reason for this is that we want to maintain as much as possible a unified language and style (both in the book and the sample source code), and we would like to discuss first with you just to make sure we agree on the basic approach. This is just to ensure that your contribution helps as much as possible.
-
-If you make *any* contribution, as simple as it is, don't forget to add your name (alphabetically sorted) to the following list of contributors:
-
-## List of Contributors
-
-* Alejandro Piad Morffis
-* David Darias Torres
-
-To all of them, thank you very much ;).
