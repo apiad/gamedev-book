@@ -1,8 +1,8 @@
-## Prologue
+# Prologue
 
 The idea for writing this book came out from a course in game development we've being teaching for a few years now, at the University of Havana. After a few iterations and modifications to the course syllabus, we (boldly) decided that it would be nice to have the basic content of the course in a single written material. In this prologue we explain why we think this book is worth reading, and, if we convince you, then how it is best read.
 
-### Why reading this book?
+## Why reading this book?
 
 The existence of this book is based on two main hypothesis. The first one is concerned with the content. Most of the books about game development we've seen (and used in our courses) are either very shallow or too specific. There are many books that don't require almost any background knowledge and there are others specifically devoted to game AI, physics, rendering, or some other topic. While we think many of these books are great in their own area, we wanted for our course a book that was both broad in the topics covered, and deep in the content. This book is specially designed for students (or graduates) of a standard Computer Science major. We think that if you know CS, we can explain many of the concepts in game development in much greater detail, and than that makes you a better game developer.
 
@@ -12,7 +12,7 @@ For these reasons, the following book is unique (or at least rare) in some sense
 
 To answer the original question, why should you read this book? Because once finished you will have a deep theoretical knowledge about how video games are designed and developed, and you will also have a pretty strong practical experience with the *de-facto* standard tool for making videogames in today's industry.
 
-### Who is this book for?
+## Who is this book for?
 
 This book is for people with interest in video games design and development from a theoretical and practical point of view, with a competent knowledge in Computer Science topics. Particularly, the book has been designed for undergrad students of a Computer Science major, and we expect you to be comfortable around the following topics:
 
@@ -26,10 +26,25 @@ This book is for people with interest in video games design and development from
 
 For all of the above topics, we expect a minimum understanding, at the level that can be expected in a Computer Science undergrad student that has taken at least the introductory course on each topic. That said, there are some chapters in the book that do not require any prior knowledge, concerned with game mechanics, design, and publishing and marketing.
 
-### How to read the book?
+## How to read the book?
 
 The book is designed to be read in order. Every chapter introduces concepts and ideas that are, many times, based on ideas and concepts from previous chapters. That said, there is some independence between content. For instance, the publishing and marketing chapters are mostly independent from the rest of the book. In addition to reading the book, we encourage you to run the demos and try to solve the exercises. This will provide a much better experience than just skimming through the pages. All the demos and examples are available online in the [same repository](https://github.com/apiad/gamedev-book) where this book came from.
 
 The book's content roughly follows the syllabus of a course about game development we give at University of Havana every semester. However, the book goes much deeper in many cases, and presents more examples and code, that for reasons of time cannot be shown in the course. If you are interested in organizing a similar course, the book itself should serve as good enough script. 
 
 Throughout the book we present many ideas and concepts that are not of our own conception, but rather taken from the academic literature, and also blogs, tutorials, online documentation, etc. We have tried to provide the adequate links to every possible resource we think might help to extend our explanations.  At the end of every chapter you'll find the references for the cited material, and a list of suggested readings. We specially appreciate contributions and feedback regarding these materials and sources.
+
+# Contributors
+
+Every contribution is very much appreciated, anything from fixing a comma or misspelling to correcting source code or writing new demos, and even whole new chapters. We prefer to use the Github fork model for contributions, so please fork the project, do your changes, and submit a pull request. Issues are also appreciated, so if you discover an error, even if you cannot fix it, please submit the corresponding issue with as much info as possible of how to reproduce the error.
+
+While we appreciate and encourage all forms of contribution, if you intend to submit a large modification (such as writing a new demo, or a new section or chapter), we would appreciate if you submit an issue first. The reason for this is that we want to maintain as much as possible a unified language and style (both in the book and the sample source code), and we would like to discuss first with you just to make sure we agree on the basic approach. This is just to ensure that your contribution helps as much as possible.
+
+If you make *any* contribution, as simple as it is, don't forget to add your name (alphabetically sorted) to the following list of contributors:
+
+## List of Contributors
+
+* Alejandro Piad Morffis
+* David Darias Torres
+
+To all of them, thank you very much ;).
